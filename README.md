@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   For architecture, flow diagrams and more detailed explanation, please check <a href='Project%20Documents/Architecture%20Design%20%26%20Governance%20Document%20-%20eKYC%20-%20dAPP%201.pdf'>Project Documents</a> folder.
+   For architecture, flow diagrams and more detailed explanation, please check <a href='Project Documents/Architecture Design & Governance Document - eKYC - dAPP 1.pdf'>Project Documents</a> folder.
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Open your terminal in the fabric-samples folder and clone the project.
 
 ``` sh
 # Clone this repo
-git clone https://github.com/LorranSutter/eKYC.git
+git clone https://github.com/DeadPreZ-101/eKYC-for-Finance.git
 
 # Go to the project folder
 cd eKYC
